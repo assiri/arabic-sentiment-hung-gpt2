@@ -1,4 +1,4 @@
-# arabic-sentiment-hung-gpt2
+# arabic-sentiment-hug-pt-ar 
 ## using pytorch and transformers CAMeL-Lab/bert-base-arabic-camelbert-ca-sentiment
 
 
